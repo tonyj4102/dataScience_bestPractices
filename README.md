@@ -6,6 +6,9 @@
 
 ### EMC - Step 1
 
+
+### Data Engineering requirements/technology roadmap
+
 ### PMP (527)
 https://moodle-2015-2016.calstatela.edu/course/view.php?id=15353
 
