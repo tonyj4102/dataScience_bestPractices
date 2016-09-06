@@ -2,6 +2,8 @@
 
 ## Planning
 
+### EMC - Step 1
+
 ### PMP (527)
 https://moodle-2015-2016.calstatela.edu/course/view.php?id=15353
 
